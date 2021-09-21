@@ -1,0 +1,7 @@
+name: PhoenixShulkerFix
+author: Kismalax
+main: com.github.kismalax.shulkerfix.PhoenixShulkerFix
+website: https://pro-phoenix.net/
+version: ${version}
+description: Disable 1.17+ shulker farms
+api-version: 1.17
