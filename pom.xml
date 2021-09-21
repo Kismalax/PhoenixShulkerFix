@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.kismalax.shulkerfix</groupId>
   <artifactId>PhoenixShulkerFix</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>PhoenixShulkerFix Spigot Plugin</name>
   <description>Disable 1.17+ shulker farms</description>
   
